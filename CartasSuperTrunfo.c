@@ -1,11 +1,5 @@
 #include <stdio.h>
 
-// Desafio Super Trunfo - Países
-// Tema 1 - Cadastro das Cartas
-// Este código inicial serve como base para o desenvolvimento do sistema de cadastro de cartas de cidades.
-// Siga os comentários para implementar cada parte do desafio.
-//Teste larissa
-
 int main() {
 
     char letra_estado; //letra de A a H
@@ -169,4 +163,5 @@ int main() {
     printf("\nSuper Poder: Carta %d venceu (%d)", (Super_Poder1 > Super_Poder2), (Super_Poder1 > Super_Poder2));
 
     return 0;
+
 }
